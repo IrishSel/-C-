@@ -2,7 +2,7 @@ using System;
  
 namespace task1
 {
-    class Program
+    class task
     {
         static void Main(string[] args)
         {
