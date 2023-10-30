@@ -2,7 +2,7 @@ using System;
  
 namespace task2
 {
-    class Program
+    class task
     {
         public static int[,] arr;
         public static int[] num;
