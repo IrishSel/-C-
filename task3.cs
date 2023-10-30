@@ -2,7 +2,7 @@ using System;
 
 namespace task3
 {
-    class Program
+    class task
     {
 
         public static void DelRowAndCol(int[,] matrix, int size, int row, int col, int[,] newMatrix)
